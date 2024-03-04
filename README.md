@@ -1,7 +1,7 @@
-# Portoflio Alura 
+# Portfólio Alura 
 Lading page pessoal.
 
-Link de produção: https://mctks2.github.io/Porfolio-alura/
+Link de produção: https://mctks2.github.io/Portfolio-alura/
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
